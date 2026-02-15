@@ -1,6 +1,6 @@
 <h1 align="center" style="font-weight: 900; font-size: 40px; letter-spacing: 2px; color: cadetblue;">Foro Hub</h1>
 
-<p align="center" style="font-weight: 900; font-size: 59px; letter-spacing: 2px; aling-text:center;" >El proyecto Foro Hub es una plataforma de foros diseñada para fomentar la comunicación y la discusión entre usuarios. Permite a los usuarios crear temas de discusión, responder a otros temas y participar activamente en conversaciones significativasEl proyecto Foro Hub es una plataforma de foros diseñada para fomentar la comunicación y la discusión entre usuarios. Permite a los usuarios crear temas de discusión, responder a otros temas y participar activamente en conversaciones significativas</p>
+<p align="center" style="font-weight: 900; font-size: 59px; letter-spacing: 2px; aling-text:center;" >El proyecto Foro Hub es una plataforma de foros diseñada para fomentar la comunicación y la discusión entre usuarios. Permite a los usuarios crear temas de discusión, responder a otros temas y participar activamente en conversaciones significativas. El proyecto Foro Hub es una plataforma de foros diseñada para fomentar la comunicación y la discusión entre usuarios. Permite a los usuarios crear temas de discusión, responder a otros temas y participar activamente en conversaciones significativas</p>
 
 <p  align="center" ><img  src="https://github.com/user-attachments/assets/1cfffbd2-a0c0-4a37-b17f-c8bcc164bc0b](https://github.com/user-attachments/assets/0100dc37-4ec1-4599-9134-79e2bcc020ea" alt="Badge Spring"></p>
 
